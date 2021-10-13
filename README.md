@@ -2,7 +2,9 @@
 
 ---
 
-I completed my master's degree in data science at the [Wrocław University of Science and Technology](https://pwr.edu.pl/en/). I currently work as a Machine Learning Engineer at [Brand24](https://brand24.com).
+I completed my master's degree in data science at the [Wrocław University of Science and Technology](https://pwr.edu.pl/en/). 
+
+I currently work as a Machine Learning Engineer at [Brand24](https://brand24.com).
 
 ---
 
