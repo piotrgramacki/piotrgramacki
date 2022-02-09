@@ -10,8 +10,9 @@ I currently work as a Machine Learning Engineer at [Brand24](https://brand24.com
 
 Check out my most interesting projects:
 
-* [PEAP](https://github.com/EmbeddML/peap-backend)
+* [Politicians Exploratory Analysis Platfomr (PEAP)](https://github.com/EmbeddML/peap-backend)
 * [gtfs2vec](https://github.com/pwr-inf/gtfs2vec)
+* [Relocation recommender](https://github.com/EmbeddML/relocation-recommendation)
 
 ---
 
