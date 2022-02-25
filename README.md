@@ -10,9 +10,9 @@ I currently work as a Machine Learning Engineer at [Brand24](https://brand24.com
 
 Check out my most interesting projects:
 
-* [Politicians Exploratory Analysis Platfomr (PEAP)](https://github.com/EmbeddML/peap-backend)
-* [gtfs2vec](https://github.com/pwr-inf/gtfs2vec)
-* [Relocation recommender](https://github.com/EmbeddML/relocation-recommendation)
+* [Politicians Exploratory Analysis Platform (PEAP)](https://github.com/EmbeddML/peap-backend) - project created as part of Social Media Analysis course with [Filip](https://github.com/ceglowa), [Kacper](https://github.com/calychas) and [Szymon](https://github.com/simonusher)
+* [gtfs2vec](https://github.com/pwr-inf/gtfs2vec) - my Master Thesis project, which resulted in publication on [GeoSearch'21](https://dl.acm.org/doi/proceedings/10.1145/3486640)
+* [Relocation recommender](https://github.com/EmbeddML/relocation-recommendation) - project created for Recommendation Systems course with the same great guys - [Filip](https://github.com/ceglowa), [Kacper](https://github.com/calychas) and [Szymon](https://github.com/simonusher)
 
 ---
 
