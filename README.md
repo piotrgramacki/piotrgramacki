@@ -19,6 +19,7 @@ Check out my most interesting projects:
 My published work:
 
 * [Piotr Gramacki](https://github.com/piotrgramacki), [Szymon Woźniak](https://github.com/simonusher), and [Piotr Szymański](https://github.com/niedakh): [Gtfs2vec: Learning GTFS Embeddings for comparing Public Transport Offer in Microregions](https://dl.acm.org/doi/10.1145/3486640.3491392) @ [GeoSearch'21](https://dl.acm.org/doi/proceedings/10.1145/3486640)
+* Krzysztof Rajda, [Łukasz Augustyniak](https://github.com/laugustyniak), [Piotr Gramacki](https://github.com/piotrgramacki), Marcin Gruza, [Szymon Woźniak](https://github.com/simonusher) and Tomasz Kajdanowicz: [Assessment of Massively Multilingual Sentiment Classifiers](https://arxiv.org/abs/2204.04937) accepted for [WASSA @ ACL 2022](https://wassa-workshop.github.io)
 
 <!--
 **piotrgramacki/piotrgramacki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
