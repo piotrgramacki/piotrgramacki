@@ -1,16 +1,16 @@
 ### Hi there 👋 My name is Piotr Gramacki
 
 ---
+I am a PhD student doing my research in the area of LLMs' applications to the geospatial domain. I've completed my master's in Data Science and bachelor's in Computer Science at the [Wrocław University of Science and Technology](https://pwr.edu.pl/en/) and continue my PhD there. 
 
-I completed my master's degree in Data Science and bachelor's degree in Computer Science at the [Wrocław University of Science and Technology](https://pwr.edu.pl/en/). 
-
-I currently work as a Machine Learning Engineer at [Brand24](https://brand24.com) and develop the [srai](https://github.com/srai-lab/srai) library.
+I also work as a Machine Learning Engineer at [Brand24](https://brand24.com) and develop the [srai](https://github.com/srai-lab/srai) library.
 
 ---
 
 Check out my most interesting projects:
 
 * [Spatial Representations for Artificial Intelligence (srai)](https://github.com/srai-lab/srai) - an open-source library for geospatial data processing and representation learning developed with [Kacper](https://github.com/calychas), [Kamil](https://github.com/RaczeQ) and [Szymon](https://github.com/simonusher)
+* [MMS Dataset and Benchmark](https://brand24-ai.github.io/mms_benchmark/) - the most extensive open massively multilingual corpus of datasets for training sentiment models. The corpus comprises 80 manually selected from over 350 datasets reported in the scientific literature based on strict quality criteria and covers 28 languages.
 * [Politicians Exploratory Analysis Platform (PEAP)](https://github.com/EmbeddML/peap-backend) - project created as part of Social Media Analysis course with [Filip](https://github.com/ceglowa), [Kacper](https://github.com/calychas) and [Szymon](https://github.com/simonusher)
 * [gtfs2vec](https://github.com/pwr-inf/gtfs2vec) - my Master Thesis project, which resulted in a publication on [GeoSearch'21](https://dl.acm.org/doi/proceedings/10.1145/3486640)
 * [Relocation recommender](https://github.com/EmbeddML/relocation-recommendation) - a project created for the Recommendation Systems course with the same great guys - [Filip](https://github.com/ceglowa), [Kacper](https://github.com/calychas) and [Szymon](https://github.com/simonusher)
